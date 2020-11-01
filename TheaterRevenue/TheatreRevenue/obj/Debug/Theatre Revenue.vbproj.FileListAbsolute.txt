@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\bin\Debug\Theatre Revenue.exe.config
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\bin\Debug\Theatre Revenue.exe
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\bin\Debug\Theatre Revenue.pdb
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\bin\Debug\Theatre Revenue.xml
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\obj\Debug\Theatre Revenue.vbprojAssemblyReference.cache
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\obj\Debug\Theatre_Revenue.Form1.resources
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\obj\Debug\Theatre_Revenue.Resources.resources
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\obj\Debug\Theatre Revenue.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\obj\Debug\Theatre Revenue.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\obj\Debug\Theatre Revenue.exe
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\obj\Debug\Theatre Revenue.xml
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Theater Revenue\Theatre Revenue\obj\Debug\Theatre Revenue.pdb
